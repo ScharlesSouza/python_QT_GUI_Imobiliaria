@@ -1,3 +1,6 @@
+# python_QT_GUI_Imobiliaria
+Projeto de ambientação na biblioteca PyQT e QT Designer
+
 CRIAR O VENV
 python -m venv venvThisProject 
 
